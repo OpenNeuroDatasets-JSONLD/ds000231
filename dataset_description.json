@@ -13,6 +13,6 @@
         "Dana Small"
     ],
     "HowToAcknowledge": "This data was obtained from the OpenfMRI database. Its accession number is ds000231",
-    "Funding": "PepsiCo, NIDCD",
+    "Funding": ["PepsiCo, NIDCD"],
     "DatasetDOI": "10.18112/openneuro.ds000231.v1.0.0"
 }
